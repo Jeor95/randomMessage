@@ -1,0 +1,22 @@
+{
+  "name": "random_message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeor95/randomMessage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeor95/randomMessage/issues"
+  },
+  "homepage": "https://github.com/Jeor95/randomMessage#readme",
+  "devDependencies": {
+    "mocha": "^11.1.0"
+  }
+}
